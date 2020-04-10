@@ -1,0 +1,35 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "test1@test.com",
+    "password": "fuckyou1",
+    "id": "1b2b10d3"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "Loveyou1*",
+    "id": "1207928d"
+  },
+  {
+    "email": "test3@test.com",
+    "password": "Fuckoff",
+    "id": "bc0942dc"
+  },
+  {
+    "email": "test4@test.com",
+    "password": "[object Promise].48cea5bcc7738930",
+    "id": "05c4cd93"
+  },
+  {
+    "email": "test5@test.com",
+    "password": "[object Promise].0a39a28d00218420",
+    "id": "b3874888"
+  },
+  {
+    "email": "test6@test.com",
+    "password": "[object Promise].1e5611e1cbf78849",
+    "id": "7971133f"
+  }
+]
