@@ -15,13 +15,14 @@ class UsersRepository extends Repository {
   async create(attrs) {
     attrs.id = this.randomId();
 
-    const salt = crypto.randomBytes(8).toString("hex");
+    const salt = crypto.randomBytes(16).toString("hex");
+    console.log("salt");
     const buf = await scrypt(attrs.password, salt, 64);
-
+    console.log("buf.toString('hex')");
     const records = await this.getAll();
     const record = {
       ...attrs,
-      password: `${buf.toString("hex")}.${salt}`
+      password: `${buf.toString("hex")}.${salt}`,
     };
     records.push(record);
 

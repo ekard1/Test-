@@ -17,19 +17,15 @@
     "password": "Fuckoff",
     "id": "bc0942dc"
   },
+
   {
-    "email": "test4@test.com",
-    "password": "[object Promise].48cea5bcc7738930",
-    "id": "05c4cd93"
+    "email": "test23@test.com",
+    "password": "9346fbf44eaa5695864b859cbf53fedecb84337ff14e586978509c382158e7e0f1bd9b49d042e93928767c1ce735d25ff95380ee92b5856e3686fdf301c1a64a.e5c988f4300c95e8b1c55165f55570d9",
+    "id": "037fbaa6"
   },
   {
-    "email": "test5@test.com",
-    "password": "[object Promise].0a39a28d00218420",
-    "id": "b3874888"
-  },
-  {
-    "email": "test6@test.com",
-    "password": "[object Promise].1e5611e1cbf78849",
-    "id": "7971133f"
+    "email": "test22@test.com",
+    "password": "c1442ff9515a906fb4f4f78e6798d1c036d3b247ff92f5471b5e3decc2a48aafddb36fb2e4989cfb65b8fb3cc667e3787d7a35f7624e88d4dae744278935ecd3.9793c9af7105356bf6d8d61b4dfbca97",
+    "id": "453a21f9"
   }
 ]
